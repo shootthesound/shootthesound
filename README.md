@@ -23,7 +23,7 @@ It also trains, profiles, repairs, and extracts LoRAs for Flux 2 Klein, Krea 2 a
 
 ## The other half
 
-Sony Imaging Ambassador, Rotolight Master of Light, and educator — from one-on-one masterclasses to university teaching and speaking at Bett, the world's largest edtech show. I also run [UltrawideWallpapers.net](https://ultrawidewallpapers.net) (1M+ downloads), whose AI workflow — 40+ LoRAs trained on my own photographic archive — was [featured by AMD](https://www.amd.com/en/resources/case-studies/affinity-by-canva.html).
+Sony Imaging Ambassador and educator — from one-on-one masterclasses to university teaching and speaking at Bett, the world's largest edtech show. I also run [UltrawideWallpapers.net](https://ultrawidewallpapers.net) (1M+ downloads), whose AI workflow — 40+ LoRAs trained on my own photographic archive — was [featured by AMD](https://www.amd.com/en/resources/case-studies/affinity-by-canva.html).
 
 ## Working with me
 
